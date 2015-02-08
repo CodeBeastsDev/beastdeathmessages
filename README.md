@@ -1,5 +1,5 @@
-# deathmessages
-The repository for the DeathMessages plugin by Joe B (SpongyBacon) of Code Beasts.
+# BeastDeathMessages
+The repository for the BeastDeathMessages plugin by Joe B (SpongyBacon) of Code Beasts.
 
 Bukkit dev link: <insert once uploaded>
 
@@ -7,7 +7,7 @@ Under GNU license. I (Joe Burnard) am not responsible for any damages caused by 
 
 Install:
 1) Stop server.
-2) Drag deathmessages.jar into plugins folder.
+2) Drag beastdeathmessages.jar into plugins folder.
 3) Start server.
 4) Let config files load.
 5) Stop server.
